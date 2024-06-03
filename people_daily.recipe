@@ -26,7 +26,7 @@ class AdvancedUserRecipe1277129332(BasicNewsRecipe):
 
     feeds = [
         (u'时政', u'http://www.people.com.cn/rss/politics.xml'),
-        (u'国际', u'http://www.people.com.cn/rss/world.xml'),
+        # (u'国际', u'http://www.people.com.cn/rss/world.xml'),
         # (u'经济', u'http://www.people.com.cn/rss/finance.xml'),
         # (u'体育', u'http://www.people.com.cn/rss/sports.xml'),
         # (u'教育', u'http://www.people.com.cn/rss/edu.xml'),
