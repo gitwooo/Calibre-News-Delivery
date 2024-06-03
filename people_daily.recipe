@@ -9,7 +9,7 @@ from calibre.web.feeds.news import BasicNewsRecipe
 class AdvancedUserRecipe1277129332(BasicNewsRecipe):
     title = u'人民日报'
     oldest_article = 2
-    max_articles_per_feed = 100
+    max_articles_per_feed = 30  #100默认
     __author__ = 'ceapas'
 
     publisher = 'people.com.cn'
